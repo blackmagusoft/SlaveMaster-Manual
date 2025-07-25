@@ -1,4 +1,4 @@
-# SlaveMaster-Manual
+# SlaveMaster: Manual
 Just look at it.
 
 Site: www.slavemasteroffline.com
